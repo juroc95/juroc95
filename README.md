@@ -10,7 +10,7 @@ Portland State University Computer Science Undergrad (currently senior)
 
 Mainly C/C++
 
-Also capable of JAVA, PYTHON, TYPESCRIPT, JAVASCRIPT
+Also capable of Java, Python, TypeScript, JavaScript, Linux, PortgreSQL
 
 ## Experience
 
