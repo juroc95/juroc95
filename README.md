@@ -14,5 +14,5 @@ Also capable of Java, Python, TypeScript, JavaScript, Linux, PortgreSQL
 
 ## Experience
 
-Software Developer Intern at MediaZen (Seoul, Korea) (3 months)
+Software Developer Intern - MediaZen (Seoul, Korea) (3 months)
 - Main Task: Volkswagen ICAS 3 Voice Recognition Software Testing
