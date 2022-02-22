@@ -2,7 +2,7 @@
 
 I'm Juhwan Lee from South Korea
 
-Computer Science Undergrad at Portland State University(currently senior)
+Computer Science Undergrad at Portland State University (currently senior)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
