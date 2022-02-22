@@ -14,4 +14,4 @@ Also capable of JAVA, PYTHON, TYPESCRIPT, JAVASCRIPT
 
 ## Experience
 
-Software Developer Intern at Mediazen(Seoul, Korea) (3 months)
+Software Developer Intern at MediaZen(Seoul, Korea) (3 months)
