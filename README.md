@@ -10,7 +10,7 @@ Portland State University Computer Science Undergrad (Senior)
 
 Mainly C/C++
 
-Also capable of Java, Python, TypeScript, JavaScript, Linux, PortgreSQL
+Also can work with Java, Python, TypeScript, JavaScript, Linux, PortgreSQL
 
 ## Experience
 
