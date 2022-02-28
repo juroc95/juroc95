@@ -10,7 +10,7 @@ Computer Science Undergraduate Student at Portland State University (Senior)
 
 Mainly C/C++
 
-Also can work with Java, Python, TypeScript, JavaScript, React, Linux, PortgreSQL
+Also can work with Java, Python, TypeScript, JavaScript, React, Linux, PostgreSQL
 
 ## Experience
 
