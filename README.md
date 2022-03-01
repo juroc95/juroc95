@@ -15,4 +15,6 @@ Also can work with Java, Python, TypeScript, JavaScript, React, Linux, PostgreSQ
 ## Experience
 
 Software Developer Intern - MediaZen (Seoul, Korea) (2021.06 - 2021.09)
+- Worked on discovering new ideas using STT, TTS, NLU, and Vision
+- Worked on Advancement of ART (Automatic Recognition Test)
 - Worked on Volkswagen ICAS 3 Voice Recognition Software Testing
