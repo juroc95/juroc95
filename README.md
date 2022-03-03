@@ -1,8 +1,6 @@
 # Juhwan Lee
 
-I'm Juhwan Lee from South Korea
-
-Computer Science Undergraduate Student at Portland State University (Senior)
+Highly motivated computer science undergraduate student. Experienced in Agile and Scrum environments. Supports team administrative, project coordination, design and programming needs. School projects included building apps, optimizing programs and validating code.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
