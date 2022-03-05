@@ -14,3 +14,8 @@ Software Developer Intern - MediaZen (2021.06 - 2021.09)
 - Worked on discovering new ideas using STT, TTS, NLU, and Vision
 - Worked on advancement of ART (Automatic Recognition Test)
 - Worked on Volkswagen ICAS 3 Voice Recognition Software Testing
+
+## Education
+
+Bachelor of Science: Computer Science - Portland State University
+- GPA 3.47
