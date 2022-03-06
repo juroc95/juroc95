@@ -11,9 +11,11 @@ C++, C, Java, Python, TypeScript, JavaScript, React, PostgreSQL, Linux, Git
 ## Experience
 
 Software Developer Intern - MediaZen (2021.06 - 2021.09)
-- Worked on discovering new ideas using STT, TTS, NLU, and Vision
-- Worked on advancement of ART (Automatic Recognition Test)
-- Worked on Volkswagen ICAS 3 Voice Recognition Software Testing
+- Discovered and presented new ideas using STT, TTS, NLU, and Computer Vision
+- Created test scenarios for advancement of ART (Automatic Recognition Test)
+- Tested multiple versions of Volkswagen voice recognition software
+- Continuously updated testing documentation
+- Analyzed error logs with the team members
 
 ## Education
 
