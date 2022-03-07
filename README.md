@@ -6,7 +6,7 @@ Highly motivated computer science undergraduate student. Experienced in Agile an
 
 ## Skills
 
-C++, C, Java, Python, TypeScript, JavaScript, React, PostgreSQL, Linux, Git
+C++, C, Java, Python, TypeScript, JavaScript, PostgreSQL, Linux, Git
 
 ## Experience
 
