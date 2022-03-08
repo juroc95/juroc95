@@ -5,8 +5,13 @@ Highly motivated computer science undergraduate student. Experienced in Agile an
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-
-C++, C, Java, Python, TypeScript, JavaScript, PostgreSQL, Linux, Git
+Programming Languages
+- C++, C, Java, Python
+Programming Knowledges 
+- Data Structures
+- Object Oriented Programming
+- Relational Databases
+- Natural Language Processing
 
 ## Experience
 
