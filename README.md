@@ -6,7 +6,8 @@ Highly motivated computer science undergraduate student. Experienced in Agile an
 
 ## Skills
 Programming Languages
-- C++, C, Java, Python
+- Comfortable programming in C/C++
+- Also can work with Java, Python, TypeScript, JavaScript
 
 Programming Knowledges 
 - Data Structures
