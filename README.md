@@ -9,7 +9,7 @@ Programming Languages
 - Comfortable programming in C/C++
 - Also can work with Java, Python, TypeScript, JavaScript
 
-Programming Knowledges 
+Programming Skills 
 - Data Structures
 - Object Oriented Programming
 - Relational Databases
