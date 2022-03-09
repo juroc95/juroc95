@@ -1,6 +1,6 @@
 # Juhwan Lee
 
-Highly motivated computer science undergraduate student. Experienced in Agile and Scrum environments. Supports team administrative, project coordination, design and programming needs. School projects included building apps, optimizing programs and validating code.
+Highly motivated computer science undergraduate student with a strong foundation in math and programming logic. Experienced in Agile and Scrum environments. Seeking to leverage solid development skills with a focus on collaboration, communication, passion and creativity as a programmer.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
