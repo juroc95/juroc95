@@ -22,7 +22,7 @@ Software Developer Intern - MediaZen (2021.06 - 2021.09)
 - Created test scenarios for advancement of ART (Automatic Recognition Test)
 - Tested multiple versions of Volkswagen voice recognition software
 - Continuously updated testing documentation
-- Analyzed error logs with the team members
+- Analyzed error logs with team members
 
 ## Education
 
