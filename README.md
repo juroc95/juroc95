@@ -6,13 +6,13 @@ Highly motivated computer science undergraduate student with a strong foundation
 
 ## Skills
 Programming Languages
-- Comfortable programming in C/C++
+- Comfortable in C/C++
 - Also can work with Java, Python, TypeScript, JavaScript
 
 Programming Skills 
 - Data Structures
 - Object Oriented Programming
-- Relational Databases
+- Relational Database
 - Natural Language Processing
 
 ## Experience
