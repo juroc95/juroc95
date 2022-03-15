@@ -11,9 +11,9 @@ Programming Languages
 
 Programming Skills 
 - Data Structures
-- Object Oriented Programming
-- Relational Database
-- Natural Language Processing
+- Object Oriented Programming (OOP)
+- Relational Databases
+- Natural Language Processing (NLP)
 
 ## Experience
 
