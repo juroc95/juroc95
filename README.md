@@ -28,4 +28,4 @@ Software Developer Intern - MediaZen (2021.06 - 2021.09)
 
 Bachelor of Science: Computer Science - Portland State University
 - GPA 3.47
-- Favorite area of study: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Application Development
+- Electives Taken: Natural Language Processing, Code Revision & Review
