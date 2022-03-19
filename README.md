@@ -5,15 +5,13 @@ Highly motivated computer science undergraduate student with a strong foundation
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-Programming Languages
 - Comfortable in C/C++
-- Also can work with Java, Python, TypeScript, JavaScript
-
-Programming Skills 
+- Familiar with Java, Python, TypeScript, and JavaScript
+- Experience in software development support and software testing
 - Data Structures
 - Object Oriented Programming (OOP)
 - Relational Databases
-- Natural Language Processing (NLP)
+- Practical experience in Natural Language Processing (NLP)
 
 ## Experience
 
