@@ -1,17 +1,16 @@
 # Juhwan Lee
 
-Highly motivated computer science undergraduate student with a strong foundation in math and programming logic. Experienced in Agile and Scrum environments. Seeking to leverage solid development skills with a focus on collaboration, communication, passion and creativity as a programmer.
+International student from South Korea with a computer science focus. Actively seeking a summer internship in a computer science related area to further my knowledge of the field. Excited at the prospect of bringing my talents to the company.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 - Comfortable in C/C++
-- Familiar with Java, Python, TypeScript, and JavaScript
-- Experience in software development support and software testing
-- Data Structures
+- Familiar with Java, Python, TypeScript, JavaScript, React, Node.js, PostgreSQL, Linux, Git, VScode ● Data Structures
 - Object Oriented Programming (OOP)
 - Relational Databases
-- Practical experience in Natural Language Processing (NLP)
+- Natural Language Processing (NLP)
+- Experience in software development support and software testing
 
 ## Experience
 
@@ -25,5 +24,5 @@ Software Developer Intern - MediaZen (2021.06 - 2021.09)
 ## Education
 
 Bachelor of Science: Computer Science - Portland State University
-- GPA 3.47
+- Cumulative GPA: 3.47 / 4.0
 - Electives Taken: Natural Language Processing, Code Revision & Review
