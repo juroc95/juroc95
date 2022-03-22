@@ -6,7 +6,8 @@ International student from South Korea with a computer science focus. Actively s
 
 ## Skills
 - Comfortable in C/C++
-- Familiar with Java, Python, TypeScript, JavaScript, React, Node.js, PostgreSQL, Linux, Git, VScode ● Data Structures
+- Familiar with Java, Python, TypeScript, JavaScript, React, Node.js, PostgreSQL, Linux, Git, VScode
+- Data Structures
 - Object Oriented Programming (OOP)
 - Relational Databases
 - Natural Language Processing (NLP)
