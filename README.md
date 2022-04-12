@@ -5,8 +5,7 @@ International student from South Korea with a computer science focus. Actively s
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
-- Comfortable in C/C++
-- Familiar with Java, Python, TypeScript, JavaScript, React, Node.js, PostgreSQL, Linux, Git, VScode
+- C++, C, Java, Python, TypeScript, JavaScript, React, Node.js, PostgreSQL, Linux, Git, VScode, Vim
 - Data Structures
 - Object Oriented Programming (OOP)
 - Relational Databases
