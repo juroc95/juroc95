@@ -25,7 +25,8 @@ Software Developer Intern - MediaZen (2021.06 - 2021.09)
 ## Education
 
 Bachelor of Science: Computer Science - Portland State University
-- Department GPA: 3.91/4.0 / Cumulative GPA: 3.51/4.0
+- Department GPA: 3.91/4.00
+- Cumulative GPA: 3.51/4.00
 - President’s List (Winter 2022)
 - Received International Achievement Scholarship ($12,000)
 - Electives Taken: Natural Language Processing, Code Revision & Review
