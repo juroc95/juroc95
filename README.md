@@ -1,6 +1,6 @@
 # Juhwan Lee
 
-International student from South Korea with a computer science focus. Actively seeking a summer internship in a computer science related area to further my knowledge of the field. Excited at the prospect of bringing my talents to the company.
+International student from South Korea studying computer science at Portland State University with an expected graduation of Mar 2023. Previously worked as a software developer intern at MediaZen. Currently seeking a second summer internship in a computer science related area to further my knowledge of the field.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juroc95)](https://github.com/anuraghazra/github-readme-stats)
 
