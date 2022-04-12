@@ -14,7 +14,7 @@ International student from South Korea with a computer science focus. Actively s
 
 ## Experience
 
-Software Developer Intern - MediaZen (2021.06 - 2021.09)
+Software Developer Intern - MediaZen (Jun 2021 - Sep 2021)
 - Discovered and presented new ideas using STT, TTS, NLU, and Computer Vision
 - Created test scenarios for advancement of ART (Automatic Recognition Test)
 - Tested multiple versions of Volkswagen voice recognition software
@@ -23,7 +23,7 @@ Software Developer Intern - MediaZen (2021.06 - 2021.09)
 
 ## Education
 
-Bachelor of Science: Computer Science - Portland State University
+Bachelor of Science: Computer Science - Portland State University (Expected Mar 2023)
 - Department GPA: 3.91/4.00
 - Cumulative GPA: 3.51/4.00
 - President’s List (Winter 2022)
