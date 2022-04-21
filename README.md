@@ -17,7 +17,7 @@ International student from South Korea studying computer science at Portland Sta
 Software Developer Intern - MediaZen (Jun 2021 - Sep 2021)
 - Discovered and presented new ideas using STT, TTS, NLU, and Computer Vision
 - Created test scenarios for advancement of ART (Automatic Recognition Test)
-- Tested multiple versions of Volkswagen voice recognition software
+- Tested multiple versions of Volkswagen voice control system
 - Continuously updated testing documentation
 - Analyzed error logs with team members
 
