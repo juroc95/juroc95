@@ -3,7 +3,7 @@
 ## Education
 
 Bachelor of Science: Computer Science - Portland State University (Jan 2020 - Mar 2023)
-- GPA: 3.51/4.00
+- GPA: 3.51 / 4.00
 - President’s List (Winter 2022)
 - Received International Achievement Scholarship ($12,000)
 - Electives Taken: Natural Language Processing, Code Revision & Review
