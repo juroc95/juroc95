@@ -12,6 +12,8 @@ International student from South Korea studying computer science at Portland Sta
 
 ## Experience
 
+Software Developer Intern - Fasoo (Jun 2022 - Aug 2022)
+
 Software Developer Intern - MediaZen (Jun 2021 - Sep 2021)
 - Discovered and presented new ideas using STT, TTS, NLU, and Computer Vision
 - Created test scenarios for advancement of ART (Automatic Recognition Test)
