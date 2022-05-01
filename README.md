@@ -1,5 +1,3 @@
-# Juhwan Lee
-
 ## Education
 
 Bachelor of Science: Computer Science - Portland State University (Jan 2020 - Mar 2023)
