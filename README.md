@@ -1,5 +1,5 @@
 <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="juhwan-lee-352544232" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/juhwan-lee-352544232?trk=profile-badge">Juhwan Lee</a></div>
-              
+
 
 ## Education
 
