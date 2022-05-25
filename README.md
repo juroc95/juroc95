@@ -12,6 +12,7 @@ Bachelor of Science: Computer Science - Portland State University (Jan 2020 - Ma
 - Object Oriented Programming (OOP)
 - Relational Databases
 - Natural Language Processing (NLP)
+- Experience in software development support and software testing
 
 ## Experience
 
