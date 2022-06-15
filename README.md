@@ -1,6 +1,6 @@
 ## Education
 
-Bachelor of Science: Computer Science - Portland State University (Jan 2020 - Mar 2023)
+Bachelor of Science - BS, Computer Science - Portland State University (Jan 2020 - Mar 2023)
 - GPA: 3.53 / 4.00
 - President’s List (Winter 2022)
 - Dean's List (Spring 2022)
