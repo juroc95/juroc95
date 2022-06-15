@@ -14,9 +14,9 @@ Bachelor of Science - BS, Computer Science - Portland State University (Jan 2020
 
 ## Experience
 
-Software Developer Intern - Fasoo (Jun 2022 - Aug 2022)
+Software Engineer Intern - Fasoo (Jun 2022 - Aug 2022)
 
-Software Developer Intern - MediaZen (Jun 2021 - Sep 2021)
+Software Engineer Intern - MediaZen (Jun 2021 - Sep 2021)
 - Tested multiple versions of Volkswagen voice control system
 - Continuously updated testing documentation
 - Analyzed error logs with team members
