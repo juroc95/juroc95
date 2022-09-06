@@ -1,1 +1,1 @@
-
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="juhwan-lee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/juhwan-lee?trk=profile-badge">Juhwan Lee</a></div>
