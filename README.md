@@ -1,5 +1,7 @@
 # Juhwan Lee
 
+![](https://komarev.com/ghpvc/?username=juroc95&color=green)
+
 <a href="https://www.linkedin.com/in/juhwan-lee/">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -7,7 +9,7 @@
 	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
 
-![](https://komarev.com/ghpvc/?username=juroc95&color=green)
+## My Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=juroc95&show_icons=true&theme=transparent)
 
