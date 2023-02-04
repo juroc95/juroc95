@@ -7,6 +7,10 @@
 	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
 
+![](https://komarev.com/ghpvc/?username=juroc95&color=green)
+
+![](https://github-readme-stats.vercel.app/api?username=juroc95&show_icons=true&theme=transparent)
+
 ## Tech Stack
 
 Programming Languagues
