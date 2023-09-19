@@ -9,10 +9,6 @@
 	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
 </a>
 
-## My Stats
-
-![](https://github-readme-stats.vercel.app/api?username=juroc95&show_icons=true&theme=transparent)
-
 ## Tech Stack
 
 Programming Languagues
