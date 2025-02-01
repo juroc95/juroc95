@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Juhwan!
-I’m a software engineer who loves solving problems and building cool stuff. With 2 years of experience in software development, high-performance computing, and machine vision applications, I enjoy working with languages like Python, C++, and C#.
+Motivated and detail-oriented software engineer with 2 years of experience in software development, high-performance computing, and machine vision applications.
 
 ## 🎓 Education
 Studied Computer Science at Portland State University
 
-## 🛠 Tech I Like
+## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -31,6 +31,6 @@ Studied Computer Science at Portland State University
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 💡 A Bit More About Me
-- Languages: Fluent in English & Korean
-- Military Service: Served in the Republic of Korea Navy 🇰🇷
-- Hobbies: Breakdancing since 2012 (yes, really 🕺) – catch me at events in the Pacific Northwest!
+- Fluent in English & Korean
+- Served in the Republic of Korea Navy 🇰🇷
+- Breakdancing since 2012 (yes, really 🕺) – catch me at events in the Pacific Northwest!
