@@ -1,7 +1,7 @@
 # Juhwan Lee
 Motivated and detail-oriented software engineer with 2 years of experience in software development, high-performance computing, and machine vision applications. Proven expertise in Python, C# .NET, C++, and CUDA. Skilled in optimizing algorithms, integrating hardware with software, and delivering scalable systems. Adept at collaborating across teams to solve complex problems and develop innovative solutions for various industries, including semiconductor manufacturing.
 
-## Professional Experience:
+## Professional Experience
 - Nanoverse Technologies: Software Engineer, May 2023 - Present
 - Fasoo: Software Engineer Intern, Jun 2022 - Aug 2022
 - MediaZen: Software Engineer Intern, Jun 2021 - Sep 2021
@@ -32,7 +32,7 @@ Motivated and detail-oriented software engineer with 2 years of experience in so
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## Additional Informations:
+## Additional Informations
 - Languages: Fluent in English and Korean
 - Military Service: Orderly to the Deputy Chief of Naval Operations, Republic of Korea Navy (Jan 2018 – Oct 2019)
 - Professional Hobby: Breakdancer, participating in events across the Northwest USA since 2012
