@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Juhwan!
 I’m a software engineer who loves solving problems and building cool stuff. With 2 years of experience in software development, high-performance computing, and machine vision applications, I enjoy working with languages like Python, C++, and C#.
 
+## 🎓 Education
+Studied Computer Science at Portland State University
+
 ## 🛠 Tech I Like
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
