@@ -33,4 +33,4 @@ Studied Computer Science at Portland State University
 ## 💡 A Bit More About Me
 - Fluent in English & Korean
 - Served in the Republic of Korea Navy
-- Breakdancer, participating in events across the Pacific Northwest since 2012
+- Breakdancer, participating in events across the Northwest USA since 2012
