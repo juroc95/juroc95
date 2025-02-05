@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Juhwan!
-Motivated and detail-oriented software engineer with 2 years of experience in software development, high-performance computing, and machine vision applications.
+# Juhwan Lee
+I’m a software developer with 2 years of experience in software development, high-performance computing, and machine vision applications. I enjoy working with Python, C#, and C++, and I have a strong interest in computer vision. I’m passionate about solving complex problems, learning new technologies, and writing clean, scalable code.
 
 ## 🎓 Education
 Studied Computer Science at Portland State University
@@ -29,8 +29,3 @@ Studied Computer Science at Portland State University
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 💡 A Bit More About Me
-- Fluent in English & Korean
-- Served in the Republic of Korea Navy
-- Breakdancer, participating in events across the Northwest USA since 2012
