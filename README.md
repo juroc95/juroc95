@@ -1,5 +1,5 @@
 # Juhwan Lee
-I’m a software developer with 2 years of experience in software development, high-performance computing, and machine vision applications. I enjoy working with Python, C#, and C++, and I have a strong interest in computer vision. I’m passionate about solving complex problems, learning new technologies, and writing clean, scalable code.
+I’m a software engineer with 2 years of experience in machine vision software development, image processing, and high-performance computing. I enjoy working with Python, C#, and C++, and I have a strong interest in machine learning, deep learning, and computer vision. I’m passionate about solving complex problems, learning new technologies, and writing clean, scalable code.
 
 ## 🎓 Education
 Studied Computer Science at Portland State University
